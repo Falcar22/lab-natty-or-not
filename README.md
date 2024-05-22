@@ -23,16 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de criação de um avatar explicativo sobre uso das IAS generativas no dia a dia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+As tecnologias usadas foram chatgpt para crição dos proponts
+mijourney para crição do avatar
+e eleven labs para criação do video
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro criei o avatar, em seguida criei o script da narativa e o propont no chatgpt e em seguida criei o video no elevenlabs
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
